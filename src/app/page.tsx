@@ -172,7 +172,7 @@ export default function Home() {
                 className="inline-flex min-h-12 items-center justify-center border border-[#d1b47f] bg-[#b18a4e] px-8 py-4 !text-white text-[10px] tracking-[0.2em] transition hover:bg-[#96703b]"
               >
                 EXPLORE THE COLLECTION
-                <span className="ml-4 text-base">â†’</span>
+                <span className="ml-4 text-base"></span>
               </Link>
 
               <Link
@@ -287,7 +287,7 @@ export default function Home() {
                   <div className="absolute bottom-5 left-5 right-5 text-white">
                     <p className="font-serif text-2xl">
                       {category.title}
-                      <span className="ml-3 text-base">â†’</span>
+                      <span className="ml-3 text-base"></span>
                     </p>
 
                     <p className="mt-2 text-[10px] tracking-wide text-white/85">
@@ -320,7 +320,7 @@ export default function Home() {
               href="/shop"
               className="border-b border-[#a17b43] pb-2 text-[10px] tracking-[0.17em] text-[#82643b] transition hover:text-[#392b22]"
             >
-              VIEW ALL PRODUCTS â†’
+              VIEW ALL PRODUCTS 
             </Link>
           </div>
 
@@ -432,7 +432,7 @@ export default function Home() {
               className="inline-flex min-h-12 items-center border border-[#a17b43] px-9 py-4 text-[10px] tracking-[0.2em] text-[#80683f] transition hover:bg-[#a17b43] hover:text-white"
             >
               EXPLORE THE FULL COLLECTION
-              <span className="ml-4">â†’</span>
+              <span className="ml-4"></span>
             </Link>
           </div>
         </div>
@@ -470,7 +470,7 @@ export default function Home() {
               className="mt-9 inline-flex min-h-12 items-center border border-[#c8a875] px-8 py-4 !text-[#ead9b9] text-[10px] tracking-[0.2em] transition hover:bg-[#c8a875] hover:!text-[#392b22]"
             >
               DISCOVER OUR STORY
-              <span className="ml-4">â†’</span>
+              <span className="ml-4"></span>
             </Link>
           </div>
         </div>
@@ -528,7 +528,7 @@ export default function Home() {
           className="mt-9 inline-flex min-h-12 items-center bg-[#a17b43] px-9 py-4 text-[10px] tracking-[0.2em] text-white transition hover:bg-[#80683f]"
         >
           CONTACT OUR TEAM
-          <span className="ml-4">â†’</span>
+          <span className="ml-4"></span>
         </Link>
       </section>
 

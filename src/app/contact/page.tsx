@@ -185,7 +185,7 @@ export default function ContactPage() {
                 rel="noreferrer"
                 className="mt-3 inline-block text-[10px] tracking-[0.16em] text-[#a8752e] underline underline-offset-4"
               >
-                VIEW LOCATION â†’
+                VIEW LOCATION 
               </a>
             </article>
           </div>
@@ -312,7 +312,7 @@ export default function ContactPage() {
               disabled={submitting}
               className="flex min-h-14 w-full items-center justify-center bg-[#35251c] px-7 py-4 text-[10px] tracking-[0.22em] text-white transition hover:bg-[#a8752e] disabled:cursor-not-allowed disabled:opacity-60"
             >
-              {submitting ? "SENDING ENQUIRY..." : "SUBMIT ENQUIRY â†’"}
+              {submitting ? "SENDING ENQUIRY..." : "SUBMIT ENQUIRY "}
             </button>
 
             <p className="text-center text-[11px] leading-6 text-[#897c6d]">
@@ -346,7 +346,7 @@ export default function ContactPage() {
           href="/shop"
           className="mt-8 inline-flex min-h-12 items-center border border-[#d0ad72] bg-[#a8752e] px-8 py-4 text-[10px] tracking-[0.2em] text-white transition hover:bg-[#c49a52]"
         >
-          DISCOVER THE COLLECTION â†’
+          DISCOVER THE COLLECTION 
         </Link>
       </section>
     </main>
